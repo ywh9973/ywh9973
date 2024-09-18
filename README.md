@@ -1,6 +1,6 @@
 ## Welcome to My Simulation Laboratory 👋
 
-In this space, I explore and document advanced numerical methods, focusing on energy-stable, high-order techniques for solving well-posed partial differential equations (PDEs). I also develop and implement gradient-based optimization tools tailored for complex research problems and real-world industrial applications. If you are looking for well-documented and packaged codes in high-performance numerical modeling, optimization, or cutting-edge simulation methods, you’re in the right place!
+In this space, I document advanced numerical methods, focusing on energy-stable, high-order techniques for solving well-posed partial differential equations (PDEs). I also explore custom experimental gradient-based optimization tools tailored for complex research problems and real-world industrial applications. If you are looking for well-documented and packaged codes in high-performance numerical modeling, optimization, or cutting-edge simulation methods, you’re in the right place!
 
 <!--
 **ywhlab/ywhlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

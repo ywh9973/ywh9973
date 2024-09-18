@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my simulation laboratory 👋
+
+Here I will be documenting custom energy-stable high-order numerical methods for well-posed PDEs solving as well as gradient-based optimisation tools for research and industrial applications.
 
 <!--
 **ywhlab/ywhlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

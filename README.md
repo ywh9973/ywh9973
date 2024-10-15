@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-In this space, I document energy-stable and high-order techniques for solving well-posed partial differential equations (PDEs). I also explore custom experimental direct search / gradient-based optimization tools tailored for research problems and real-world industrial applications.
+In this space, I document techniques for solving well-posed partial differential equations (PDEs). I also explore custom experimental optimization tools tailored for research problems and real-world industrial applications.
 
 <!--
 **ywhlab/ywhlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

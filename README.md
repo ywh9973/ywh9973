@@ -1,4 +1,4 @@
-## Welcome to My Simulation Laboratory 👋
+## Welcome 👋
 
 In this space, I document energy-stable and high-order techniques for solving well-posed partial differential equations (PDEs). I also explore custom experimental direct search / gradient-based optimization tools tailored for research problems and real-world industrial applications.
 
